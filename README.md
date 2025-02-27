@@ -15,6 +15,7 @@ I'm a full-stack developer with a unique background in leadership and operationa
 - 🤝 Relationship builder who finds common ground with diverse teammates
 - 📊 Data-driven decision maker with a methodical approach to problem-solving
 - ✨ Creator of environments where efficiency, growth, and enjoyment coexist
+- 🏗  As M.C Escher once said, "We adore chaos because we love to produce order"
 
 ### 🛠️ Technical Arsenal
 
