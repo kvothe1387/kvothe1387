@@ -26,7 +26,6 @@ Database: PostgreSQL, MongoDB, Sequelize, Mongoose
 Tools: Git, GitHub Actions, CircleCI, Insomnia, Cypress, Render, Netlify
 Methodologies: Agile/Scrum, Test-Driven Development, MVC Architecture
 Leadership: Team Management, Process Optimization, Mentoring, Data-Driven Decision Making
-
 ```
 
 ### 🚀 Recent Projects
