@@ -22,10 +22,10 @@ I'm a full-stack developer with a unique background in leadership and operationa
 Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3
 Backend: Node.js, Express, RESTful APIs, GraphQL
 Database: PostgreSQL, MongoDB, Sequelize, Mongoose
-Tools: Git, GitHub Actions, CircleCI, Cypress
+Tools: Git, GitHub Actions, CircleCI, Insomnia, Cypress
 Methodologies: Agile/Scrum, Test-Driven Development, MVC Architecture
 Leadership: Team Management, Process Optimization, Mentoring, Data-Driven Decision Making
- 
+
 ```
 
 ### 🚀 Recent Projects
@@ -33,6 +33,29 @@ Leadership: Team Management, Process Optimization, Mentoring, Data-Driven Decisi
 - **[Flavor Pidginhole](https://github.com/bungin/Flavor-Pidginhole)** - A full-stack social platform for sharing recipes built with React, TypeScript, Node.js, GraphQL, and MongoDB
 - **[Social Network API](https://github.com/kvothe1387/Social_Network_API)** - RESTful API backend service with comprehensive user authentication
 - **[My Ventures](https://github.com/kvothe1387/Travel-Journal)** - Personal travel diary built with React
+
+### 💼 Professional Journey
+
+My path to development has been shaped by leadership experience that taught me the value of systems, processes, and people:
+
+**Training Restaurant Manager** | Smashburger | 2013-2020
+- Achieved 3rd lowest turnover rate in East division (150+ stores)
+- Led cross-functional teams of 20+ staff members to top 3% performance ranking among 300+ locations
+- Created job execution training programs leading to successful promotion of 4 assistant managers
+- Developed and implemented digital training systems, reducing onboarding time by 25%
+- Orchestrated 13 successful fundraising events in partnership with K-State Greek organizations
+
+**Assistant Store Manager** | Taco Bell | 2010-2013
+- Excelled in daily store operations, including inventory management and cash control
+- Supervised and coached team members, fostering a positive work environment
+- Collaborated with Store Manager to execute business strategies and enhance customer experience
+- Maintained rigorous health and safety standards, passing all food safety audits
+
+**Assistant Store Manager** | McDonald's Corporation | 2007-2010
+- Led the visual merchandising strategy, ensuring store appearance aligned with brand standards
+- Gained 5 years of management experience focusing on operational efficiency
+- Monitored inventory and product control, maintaining highly accurate records
+- Promoted to Shift Leader at 18, demonstrating early leadership potential
 
 ### 💼 Professional Philosophy
 
@@ -44,19 +67,12 @@ I believe in:
 - Continuously identifying and eliminating bottlenecks in processes
 - Writing clean, maintainable code that stands the test of time
 - Taking a methodical approach to problem-solving that leaves room for creativity
-- Finding the perfect balance between technical excellence and user experience
-- Creating connection points that bridge technical and non-technical stakeholders
 
-### 🏆 Professional Impact
+### 🎓 Education
 
-Throughout my career, I've consistently:
-- Mentored 4 assistant managers to successful promotion to full management roles
-- Developed and implemented training systems reducing onboarding time by 25%
-- Achieved the 3rd lowest turnover rate among 150+ locations as a Training Manager
-- Improved operational workflows resulting in 30% efficiency gains
-- Created team environments where high performance and high morale coexist
-- Orchestrated successful fundraising events by developing effective team capabilities
-- Maintained excellence in quality while increasing productivity through people development
+**Full-Stack Web Development** | University of Kansas | 2024
+- Intensive full-stack development bootcamp
+- Skills: JavaScript, Apollo, GraphQL, and +23 skills
 
 ### 📫 Let's Connect
 
