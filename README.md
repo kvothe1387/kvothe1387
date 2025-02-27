@@ -22,7 +22,7 @@ I'm a full-stack developer with a unique background in leadership and operationa
 Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3
 Backend: Node.js, Express, RESTful APIs, GraphQL
 Database: PostgreSQL, MongoDB, Sequelize, Mongoose
-Tools: Git, GitHub Actions, CircleCI, Insomnia, Cypress
+Tools: Git, GitHub Actions, CircleCI, Insomnia, Cypress, Render, Netlify
 Methodologies: Agile/Scrum, Test-Driven Development, MVC Architecture
 Leadership: Team Management, Process Optimization, Mentoring, Data-Driven Decision Making
 
