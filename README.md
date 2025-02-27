@@ -42,7 +42,7 @@ My path to development has been shaped by leadership experience that taught me t
 - Achieved 3rd lowest turnover rate in East division (150+ stores)
 - Led cross-functional teams of 20+ staff members to top 3% performance ranking among 300+ locations
 - Created job execution training programs leading to successful promotion of 4 assistant managers
-- Developed and implemented digital training systems, reducing onboarding time by 25%
+- Implemented digital training systems, reducing onboarding time by 25%
 - Orchestrated 13 successful fundraising events in partnership with K-State Greek organizations
 
 **Assistant Store Manager** | Taco Bell | 2010-2013
