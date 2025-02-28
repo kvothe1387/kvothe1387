@@ -39,7 +39,7 @@ Leadership: Team Management, Process Optimization, Mentoring, Data-Driven Decisi
 My path to development has been shaped by leadership experience that taught me the value of systems, processes, and people:
 
 **Catering Hot Prep Cook** | Jack Stack Barbecue | 2021-Current
-- treamlined catering operations by reviewing Banquet Event Orders (BEOs) and delivery sheets, proactively identifying and addressing frequently overlooked items to ensure accuracy.
+- Streamlined catering operations by reviewing Banquet Event Orders (BEOs) and delivery sheets, proactively identifying and addressing frequently overlooked items to ensure accuracy.
 - Prepare and assemble high-quality barbecue dishes for large-scale catering events, ensuring consistency with company recipes. Coordinate with kitchen and catering teams to meet strict deadlines for bulk orders.
 
 **Training Restaurant Manager** | Smashburger | 2013-2020
