@@ -21,7 +21,7 @@ Core skills include JavaScript, React, TypeScript, HTML5, CSS3, Bootstrap, Node.
 
 - **[Flavor Pidginhole](https://github.com/bungin/Flavor-Pidginhole)** - A full-stack social platform for sharing recipes built with React, TypeScript, Node.js, GraphQL, and MongoDB
 - **[Social Network API](https://github.com/kvothe1387/Social_Network_API)** - RESTful API backend service with comprehensive user authentication
-- **[My Ventures](https://github.com/kvothe1387/Travel-Journal)** - Personal travel diary built with React
+- **[Travel Journal](https://github.com/kvothe1387/Travel-Journal)** - Personal travel diary built with React
 
 ### 💼 Professional Philosophy
 
@@ -37,8 +37,14 @@ I believe in:
 ### 🎓 Education
 
 **Full-Stack Web Development** | University of Kansas | 2024
-- Intensive full-stack development bootcamp
-- Skills: JavaScript, Apollo, GraphQL, and +23 skills
+- Completed 240 contact hours of software development training covering JavaScript, React, 
+  Node.js, TypeScript, Python, SQL, PERN and MERN stack development, REST APIs, 
+  GraphQL, MVC architecture, responsive design, Git, Agile practices, Cypress, and Insomnia.
+  
+- Built hands-on experience developing full-stack applications, strengthening problem-solving, 
+  debugging, application architecture, database integration, responsive front-end development, and 
+  user-focused software development skills. 
+
 
 ### 📫 Let's Connect
 
