@@ -19,17 +19,6 @@ Core skills include JavaScript, React, TypeScript, HTML5, CSS3, Bootstrap, Node.
 - 🏗  As M.C Escher once said, "We adore chaos because we love to produce order"
 
 
-### 💼 Professional Philosophy
-
-I believe in:
-- Building systems with precision and efficiency as the core principles
-- Investing in people development as the foundation of sustainable success
-- Creating learning environments that accelerate skill acquisition and growth
-- Identifying unique talents and helping individuals leverage their strengths
-- Continuously identifying and eliminating bottlenecks in processes
-- Writing clean, maintainable code that stands the test of time
-- Taking a methodical approach to problem-solving that leaves room for creativity
-
 ### 📫 Let's Connect
 
 - LinkedIn: [davidmcc-webdev](https://www.linkedin.com/in/davidmcc-webdev/)
