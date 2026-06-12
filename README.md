@@ -14,14 +14,10 @@ I am currently targeting front-end developer, junior web developer, software dev
 
 Core skills include JavaScript, React, TypeScript, HTML5, CSS3, Bootstrap, Node.js, Express.js, REST APIs, GraphQL, SQL, PostgreSQL, MongoDB, Sequelize ORM, Mongoose, Git, GitHub, Cypress, Insomnia, Agile development, responsive web design, troubleshooting, team leadership, systems management, operational efficiency, customer experience, and performance improvement.
 
+
+
 - 🏗  As M.C Escher once said, "We adore chaos because we love to produce order"
 
-
-### 🚀 Recent Projects
-
-- **[Flavor Pidginhole](https://github.com/bungin/Flavor-Pidginhole)** - A full-stack social platform for sharing recipes built with React, TypeScript, Node.js, GraphQL, and MongoDB
-- **[Social Network API](https://github.com/kvothe1387/Social_Network_API)** - RESTful API backend service with comprehensive user authentication
-- **[Travel Journal](https://github.com/kvothe1387/Travel-Journal)** - Personal travel diary built with React
 
 ### 💼 Professional Philosophy
 
@@ -33,18 +29,6 @@ I believe in:
 - Continuously identifying and eliminating bottlenecks in processes
 - Writing clean, maintainable code that stands the test of time
 - Taking a methodical approach to problem-solving that leaves room for creativity
-
-### 🎓 Education
-
-**Full-Stack Web Development** | University of Kansas | 2024
-- Completed 240 contact hours of software development training covering JavaScript, React, 
-  Node.js, TypeScript, Python, SQL, PERN and MERN stack development, REST APIs, 
-  GraphQL, MVC architecture, responsive design, Git, Agile practices, Cypress, and Insomnia.
-  
-- Built hands-on experience developing full-stack applications, strengthening problem-solving, 
-  debugging, application architecture, database integration, responsive front-end development, and 
-  user-focused software development skills. 
-
 
 ### 📫 Let's Connect
 
